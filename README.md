@@ -1,27 +1,39 @@
-# Minimal Mistakes remote theme starter
+<head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-112502179-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+  gtag('config', 'UA-112502179-1');
+</script>
+</head>
 
-Contains basic configuration to get you a site with:
+## Home Page
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
+### About Me
 
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+Hi there! I am Yuqi Zhang. I am a detail-oriented data analyst and storyteller. I'm a graduated student from MS Business Analytics program at USC Marshall School of Business and will graduate in Dec 2022. (https://yudong-94.github.io/personal-website/blogs/MOOCList) on Coursera, edX and other MOOC platforms in subjects ranging from Statistics to Machine Learning.
 
----
+My analytical skillset includes:
+- SQL, NoSQL, Python, Tableau
+<!-- - Data mining: R, Python, Spark (in Scala and PySpark), Excel 
+- Visualization: Tableau, R Shiny
+- Databases: MySQL, Amazon Redshift
+- A/B Testing
+- Machine learning skills -->
 
-## Troubleshooting
+### About This Site
 
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
+This site works as a gallery of my data projects as well as my own thoughts on data analysis.
+- [Projects](https://yudong-94.github.io/personal-website/projects/):
+My data mining, data visualization, and machine learning projects.
+- [Blog](https://yudong-94.github.io/personal-website/blogs/):
+My own thoughts and experience on learning and working in the data fields.  
 
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+### Contact Me    
+
+[My LinkedIn](https://www.linkedin.com/in/yuqi-zhang-2022/)  
+[My Github](https://github.com/yuqizhang2022)  
+E-mail: yuqi.zhang.2023@outlook.com
