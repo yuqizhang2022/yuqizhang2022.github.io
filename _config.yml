@@ -17,9 +17,9 @@ title: Yuqi Zhang's Blog
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
   MS in Business Analytics Candidate at USC
-  People First.
-  Data Second.
-  Cat Third.
+#   People First.
+#   Data Second.
+#   Cat Third.
 # twitter_username: username
 github_username: yuqizhang2022
 minimal_mistakes_skin: default
