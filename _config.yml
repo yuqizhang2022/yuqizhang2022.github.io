@@ -54,36 +54,40 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  
+# # Analytics
+# analytics:
+#   provider               : "google-gtag"
+#   google:
+#     tracking_id          : "UA-112502179-1"
+#     anonymize_ip         : false
 
 author:
-  name   : "First Lastname"
+  name   : "Yuqi Zhang"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "MS in Business Analytics Candidate at USC"
   links:
-    - label: "Website"
+    - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://www.linkedin.com/in/yuqi-zhang-2022/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/yuqizhang2022"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/iamginnyz/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.linkedin.com/in/yuqi-zhang-2022/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/yuqizhang2022"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/iamginnyz/"
 
 defaults:
   # _posts
