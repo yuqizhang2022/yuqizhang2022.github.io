@@ -68,7 +68,7 @@ author:
   bio    : "MS in Business Analytics Candidate at USC"
   links:
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fab fa-linkedin-in"
       url: "https://www.linkedin.com/in/yuqi-zhang-2022/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -80,7 +80,7 @@ author:
 footer:
   links:
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fab fa-linkedin-in"
       url: "https://www.linkedin.com/in/yuqi-zhang-2022/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
