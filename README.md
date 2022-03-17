@@ -4,7 +4,7 @@
 
 ### About Me
 
-Hi there! I am Yuqi Zhang. I am a detail-oriented data analyst and storyteller. I'm a graduated student from MS Business Analytics program at USC Marshall School of Business and will graduate in Dec 2022. (https://yudong-94.github.io/personal-website/blogs/MOOCList) on Coursera, edX and other MOOC platforms in subjects ranging from Statistics to Machine Learning.
+Hi there! I am Yuqi Zhang. I am a detail-oriented data analyst and storyteller. I'm a graduated student from MS Business Analytics program at USC Marshall School of Business and will graduate in Dec 2022. 
 
 My analytical skillset includes:
 - SQL, NoSQL, Python, Tableau
@@ -14,13 +14,13 @@ My analytical skillset includes:
 - A/B Testing
 - Machine learning skills -->
 
-### About This Site
+<!-- ### About This Site
 
 This site works as a gallery of my data projects as well as my own thoughts on data analysis.
 - [Projects](https://yudong-94.github.io/personal-website/projects/):
 My data mining, data visualization, and machine learning projects.
 - [Blog](https://yudong-94.github.io/personal-website/blogs/):
-My own thoughts and experience on learning and working in the data fields.  
+My own thoughts and experience on learning and working in the data fields.   -->
 
 ### Contact Me    
 
