@@ -8,7 +8,7 @@ tags:
   - firstblog
 ---
 
-Hello my favourite pal!
+Hello my favorite pal!
 
 Today is the first day of this year and this is also my first ever blog! I’m really excited about building my own website. 
 
